@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875777958507",
+    "project_id": "onco-92e0b",
+    "storage_bucket": "onco-92e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875777958507:android:67c38d382539bd1f43c72e",
+        "android_client_info": {
+          "package_name": "com.example.onco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKLmW5Lroou2rRXW3dYFL5x9OO8NlQvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
